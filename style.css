@@ -1,0 +1,278 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.first{
+    background-image: url(images/donation13.jpg) ;
+    background-repeat: no-repeat;
+    height: 900px;
+    background-size: cover;
+    
+
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient( lime,rgb(168, 233, 17));
+    padding: 18px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    margin-right: 50px;
+
+
+}
+
+.half-width{
+    text-align: center;
+    
+    
+}
+.first-h1{
+    margin-top: 0;
+    font-size: 90px;
+    margin-bottom: 0;
+    padding-top: 250px;
+    color: white;
+    font-weight: 700;
+    
+}
+
+
+.para{
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 60px;
+    color: white;
+}
+.second{
+    
+    width: cover;
+}
+.half-width2{
+    text-align: center;
+}
+.second-h1{
+    margin-top: 180px;
+    font-size: 60px ;
+    margin-bottom: 0;
+    font-weight: 700;
+}
+.para2{
+    line-height: 40px;
+    padding-top: 0;
+    font-size: 25px;
+}
+.third{
+    display: flex;
+   margin-left: 295px;
+   
+   
+    
+}
+.box{
+    
+    height: 170px;
+    width: 170px;
+    margin: 40px;
+    background-color:rgb(226, 223, 223);
+    border-radius: 6px;
+    font-size: 45px;
+    font-weight: 700;
+
+    text-align: center;
+    color: grey;
+}
+#border{
+    border: 3px solid red;
+    background-color: lightcoral;
+    color: rgb(216, 24, 62);
+}
+
+.input-area input{
+    height: 40px;
+    width: 50%;
+    position: relative;
+    text-align: center;
+    border: none;
+    border-bottom: 2px solid silver;
+    outline: none;
+    margin-left: 450px;
+    margin-bottom: 60px;
+    font-size: 30px;
+}
+.button2{
+    margin-top: 200px;
+    text-decoration: none;
+    background-image: linear-gradient( lime,rgb(168, 233, 17));
+    padding: 18px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 820px;
+}
+.fifth{
+    
+    width: cover;
+}
+.half-width5{
+    text-align: center;
+}
+.fifth-h1{
+    margin-top: 180px;
+    font-size: 60px ;
+    margin-bottom: 0;
+    font-weight: 700;
+}
+.para5{
+    line-height: 40px;
+    padding-top: 0;
+    font-size: 25px;
+}
+.six{
+    display: flex;
+   margin-left: 190px;
+}
+.card1{
+
+    
+        height: 400px;
+        width: 450px;
+        margin: 30px;
+        background-color:lightcoral;
+        border-radius: 6px;
+        font-size: 20px;
+        font-weight: 700;
+    
+        text-align: center;
+        color: black;
+        position: relative;
+        top: 50%;
+        
+    }
+
+.card2{
+    height: 400px;
+    width: 450px;
+    margin: 30px;
+    background-color:lightsalmon;
+    border-radius: 6px;
+    font-size: 20px;
+    font-weight: 700;
+
+    text-align: center;
+    color: black;
+}
+.card3{
+    height: 400px;
+    width: 450px;
+    margin: 30px;
+    background-color:lightskyblue;
+    border-radius: 6px;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    color: black ;
+}
+.half-width1{
+    font-size: 40px;
+    width: 90%;
+    margin-left: 50px;
+}
+.half-width1 img{
+    width: 75%;
+    margin-top: 40px;
+    margin-left: 100px;
+
+}
+.first-section{
+    display: flex;
+margin-bottom: 40px;
+
+}
+
+
+.button3{
+    background-image:linear-gradient(tomato,orange);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+     font-weight: 700;
+}
+.mid-section{
+    display: flex;
+    
+
+}
+.half-width7{
+    font-size: 40px;
+    width: 100%;
+    
+}
+.half-width7 img{
+    width: 70%;
+    margin-left: 5%;
+}
+.Updates{
+    width: cover;
+    
+}
+
+.updates-div{
+    text-align: center;
+}
+.updates-h1{
+    margin-top: 180px;
+    font-size: 60px ;
+    margin-bottom: 0;
+    font-weight: 700;
+}
+.Updates-p{
+    line-height: 40px;
+    padding-top: 0;
+    font-size: 25px;
+}
+.last{
+    background-color: blanchedalmond;
+    margin: 100px;
+    height: 400px;
+    text-align: center;
+    display: flex;
+
+}
+.last input{
+    height: 50px;
+    width: 30%;
+    position: relative;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 180px;
+}
+.b-last{
+    
+    text-decoration: none;
+    background-image: linear-gradient( lime,rgb(168, 233, 17));
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 180px;
+    margin-bottom: 162px;
+}
+.last-all{
+    text-align: center;
+    background-color: black;
+    height: 160px;
+    padding-top: 40px;
+}
+.footer-h1{
+    color: crimson;
+}
+.footer-p{
+    color: white;
+}
