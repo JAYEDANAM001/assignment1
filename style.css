@@ -240,29 +240,33 @@ margin-bottom: 40px;
     margin: 100px;
     height: 400px;
     text-align: center;
-    display: flex;
-
+outline: none;
 }
 .last input{
-    height: 50px;
-    width: 30%;
+   width: 520px;
     position: relative;
     text-align: center;
-    margin-left: 450px;
+    margin-left: 100px;
     margin-top: 180px;
+    background-color: rgb(202, 201, 201);
+    font-size: 20px;
+    border-radius:  9px 0 0 9px ;
+    padding: 20px ;
+    outline: none;
+    padding-right: 70px;
+    margin-right: -12px;
 }
 .b-last{
     
     text-decoration: none;
     background-image: linear-gradient( lime,rgb(168, 233, 17));
-    padding: 15px 25px;
-    border-radius: 5px;
+    padding: 22.5px 70px;
+    border-radius :0 9px 9px 0;
     color: white;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
-    margin-top: 180px;
-    margin-bottom: 162px;
+   
 }
 .last-all{
     text-align: center;
